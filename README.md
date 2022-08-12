@@ -19,3 +19,19 @@ SAATHI is an end-to-end IoT-based solution to help patients with anxiety spectru
 - **Important Links.xlsx** - Contains links for the references used for the entire project.
 - **Finance Model.xlsx** - Contains data for the finance model of the entire product.
 - **SAATHI.apk** - Mobile application for SAATHI ecosystem.
+- **Final_Presentation** - Final pitch presentation.
+- **Mid_Evaluation_Report** - Technical Report for the product.
+- **SAATHI UI.mp4** - Mockup of the proposed UI for the mobile app.
+- **Stress_Detection.ipynb** - Code file for stress detection.  
+
+### Contributors
+- Aditya Bharadwaj
+- Aditya Naik
+- Aryan Rastogi
+- Ashish Gautam
+- Ashwin Jino V
+- Harshwardhan Chaube
+- Kailaash Pandiyan
+- Samhith Damani
+- V Logashree
+- Vineet Tripathi
