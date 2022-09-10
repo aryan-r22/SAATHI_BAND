@@ -10,6 +10,7 @@ SAATHI is an end-to-end IoT-based solution to help patients with anxiety spectru
 - **Fall detection**: Consists of scripts for implementing the algorithm for Fall detection.
 - **Prototype 3DModel** - Consists of prototype files made on Fusion360.
 - **Sleep detection** - Files for implementing the algorithm for Sleep detection.
+- **Deployable codebase** - Single wrapper file for inference.
 - **Stress_detection.ipynb** - Jupyter notebook to implement the stress detection algorithm.
 - **SAATHI user flow.pdf**- A user flow diagram for the entire technical implementation of SAATHI.
 - **Circuit Schematic Image.png** - The circuit schematic image for the entire approach.
