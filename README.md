@@ -1,6 +1,5 @@
 # SAATHI - Self Assessment & Alleviation by Technology & Healthcare Interface
-## Team 17 - Silicon Labs Entreprenuership Challenge
-### **Inter IIT Tech Meet 10.0**
+## **Smart India Hackathon 2022 & Inter IIT Tech Meet 10.0**
 
 ### Description
 SAATHI is an end-to-end IoT-based solution to help patients with anxiety spectrum disorders, track their mental health status, manage their cognitive behavior, and help them mitigate their issues by using a Smart wearable wristband and a mobile-based application.
@@ -28,11 +27,14 @@ SAATHI is an end-to-end IoT-based solution to help patients with anxiety spectru
 ### Contributors
 - Aditya Bharadwaj
 - Aditya Naik
+- Apurva Kamble
 - Aryan Rastogi
 - Ashish Gautam
 - Ashwin Jino V
+- Dhruv Parasrampuria
 - Harshwardhan Chaube
 - Kailaash Pandiyan
+- Neelanshu Garg
 - Samhith Damani
 - V Logashree
 - Vineet Tripathi
